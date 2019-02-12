@@ -1,0 +1,9 @@
+{
+    "extends": "eslint:recommended",
+    "plugins": [
+        "standard"
+    ],
+    "rules": {
+      "no-labels": 0
+    }
+}
